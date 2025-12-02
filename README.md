@@ -5,6 +5,10 @@ focussing on Observation System Simulation Experience (OSSE), based on the artic
 
 > Denvil-Sommer, A., Gehlen, M., and Vrac, M.: Observation system simulation experiments in the Atlantic Ocean for enhanced surface ocean pCO2 reconstructions, Ocean Sci., 17, 1011–1030, https://doi.org/10.5194/os-17-1011-2021, 2021.
 
+This was delivered at the ICCS Summer School 2024 and 2025. 
+
+* [YouTube recording from the ICCS Summer School 2025](https://www.youtube.com/watch?v=1102Y1cW3bk&list=PL3PByZO-B6dODVXyQcfKEDnIldqReFryp&index=14)
+
 ## Base requirements
 
 - Python 3
